@@ -30,7 +30,7 @@
 		"outerColor": [1,5,16],
 		"innerColor": [25,200,20],
 		"uniqueName": "Rush",
-		"unique": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
 		"cities": ["BIR","BIR1","BIR2","BIR3","BIR4","BIR5","BIR6","BIR7","BIR8",
 			"BIR9","BIR10","BIR11","BIR12","BIR13","BIR14","BIR15","BIR16","BIR17","BIR18",
 			"BIR19","BIR20","BIR21","BIR22","BIR23","BIR24","BIR25","BIR26","BIR27","BIR28",
@@ -66,7 +66,8 @@
 
 		"outerColor": [16,5,1],
 		"innerColor": [200,20,25],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName" : "yee",
+		"uniques": ["Empire enters a [5]-turn Golden Age"],
 		"cities": ["Sakinu_ruikao","Sakinu_ruikao1","Sakinu_ruikao2","Sakinu_ruikao3","Sakinu_ruikao4","Sakinu_ruikao5","Sakinu_ruikao6","Sakinu_ruikao7","Sakinu_ruikao8",
 			"Sakinu_ruikao9","Sakinu_ruikao10","Sakinu_ruikao11","Sakinu_ruikao12","Sakinu_ruikao13","Sakinu_ruikao14","Sakinu_ruikao15","Sakinu_ruikao16","Sakinu_ruikao17","Sakinu_ruikao18",
 			"Sakinu_ruikao19","Sakinu_ruikao20","Sakinu_ruikao21","Sakinu_ruikao22","Sakinu_ruikao23","Sakinu_ruikao24","Sakinu_ruikao25","Sakinu_ruikao26","Sakinu_ruikao27","Sakinu_ruikao28",
