@@ -30,11 +30,11 @@
 		"outerColor": [1,5,16],
 		"innerColor": [25,200,20],
 		"uniqueName": "Rush",
-		"unique": ["Empire enters golden age <before [5] turn>"],
-		"cities": ["首都","不是首都1","不是首都2","不是首都3","不是首都4","不是首都5","不是首都6","不是首都7","不是首都8",
-			"不是首都9","不是首都10","不是首都11","不是首都12","不是首都13","不是首都14","不是首都15","不是首都16","不是首都17","不是首都18",
-			"不是首都19","不是首都20","不是首都21","不是首都22","不是首都23","不是首都24","不是首都25","不是首都26","不是首都27","不是首都28",
-			"不是首都29","不是首都30","不是首都31","不是首都32","不是首都33","不是首都34"]
+		"unique": ["Empire enters golden age <starting from the [Ancient era]>"],
+		"cities": ["BIR","BIR1","BIR2","BIR3","BIR4","BIR5","BIR6","BIR7","BIR8",
+			"BIR9","BIR10","BIR11","BIR12","BIR13","BIR14","BIR15","BIR16","BIR17","BIR18",
+			"BIR19","BIR20","BIR21","BIR22","BIR23","BIR24","BIR25","BIR26","BIR27","BIR28",
+			"BIR29","BIR30","BIR31","BIR32","BIR33","BIR34"]
 	},
 	{
 		"name": "Farmer",
@@ -65,11 +65,11 @@
 		"tradeRequest": "屬實有料",
 
 		"outerColor": [16,5,1],
-		"innerColor": [20,200,25],
+		"innerColor": [200,20,25],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["首都","不是首都1","不是首都2","不是首都3","不是首都4","不是首都5","不是首都6","不是首都7","不是首都8",
-			"不是首都9","不是首都10","不是首都11","不是首都12","不是首都13","不是首都14","不是首都15","不是首都16","不是首都17","不是首都18",
-			"不是首都19","不是首都20","不是首都21","不是首都22","不是首都23","不是首都24","不是首都25","不是首都26","不是首都27","不是首都28",
-			"不是首都29","不是首都30","不是首都31","不是首都32","不是首都33","不是首都34"]
+		"cities": ["Sakinu_ruikao","Sakinu_ruikao1","Sakinu_ruikao2","Sakinu_ruikao3","Sakinu_ruikao4","Sakinu_ruikao5","Sakinu_ruikao6","Sakinu_ruikao7","Sakinu_ruikao8",
+			"Sakinu_ruikao9","Sakinu_ruikao10","Sakinu_ruikao11","Sakinu_ruikao12","Sakinu_ruikao13","Sakinu_ruikao14","Sakinu_ruikao15","Sakinu_ruikao16","Sakinu_ruikao17","Sakinu_ruikao18",
+			"Sakinu_ruikao19","Sakinu_ruikao20","Sakinu_ruikao21","Sakinu_ruikao22","Sakinu_ruikao23","Sakinu_ruikao24","Sakinu_ruikao25","Sakinu_ruikao26","Sakinu_ruikao27","Sakinu_ruikao28",
+			"Sakinu_ruikao29","Sakinu_ruikao30","Sakinu_ruikao31","Sakinu_ruikao32","Sakinu_ruikao33","Sakinu_ruikao34"]
 	}
 ]
