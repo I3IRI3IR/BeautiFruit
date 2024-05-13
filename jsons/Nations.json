@@ -1,38 +1,74 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Rusher",
+		"leaderName": "BIR",
+		"adjective": ["Rusian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We come in !peace",
+		"startIntroPart2": "元神，啟動!",
+		
+		"declaringWar": "夜幕就是你的死期",
+		"attacked": "沒有選擇逃跑而是主動接近我嗎",
+		"defeated": "我在做模組的時候覺得這不可能輸阿",
+		"introduction": "站在你面前的是活了超過千年的Rusher",
+		
+		"neutralHello": "早安",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["0","否阿","你要不要聽聽看你在說什麼"],
+		"neutralYes": ["同意啦，哪次不同意","好欸","真好"],
+
+		"hateHello": "起床重睡",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["0","否阿","你要不要聽聽看你在說什麼"],
+		"hateYes": ["同意啦，哪次不同意","好欸","真好"],
+		
+		"afterPeace": "十回合後再打",
+		"tradeRequest": "好扯都會交易",
+
+		"outerColor": [1,5,16],
+		"innerColor": [25,200,20],
+		"unique": "["Empire enters golden age <before [5] turn>"]",
+		"cities": ["首都","不是首都1","不是首都2","不是首都3","不是首都4","不是首都5","不是首都6","不是首都7","不是首都8",
+			"不是首都9","不是首都10","不是首都11","不是首都12","不是首都13","不是首都14","不是首都15","不是首都16","不是首都17","不是首都18",
+			"不是首都19","不是首都20","不是首都21","不是首都22","不是首都23","不是首都24","不是首都25","不是首都26","不是首都27","不是首都28",
+			"不是首都29","不是首都30","不是首都31","不是首都32","不是首都33","不是首都34"]
+	},
+	{
+		"name": "Farmer",
+		"leaderName": "Sakinu_RuiKao",
+		"adjective": ["Rui"],
+		"startBias": ["Avoid [Jungle]"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart2": "好啊",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "疾風刃，斬鬼神",
+		"attacked": "問題不大",
+		"defeated": "How to 被滅",
+		"introduction": "今日敢於獨行怪癖之人寥若晨星，正是這個時代大為可懼的標誌。",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "早安",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralNo": ["0","否阿","屬實沒料"],
+		"neutralYes": ["同意啦，哪次不同意","好欸","屬實有料"],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "起床重睡",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateNo": ["0","與我何干","屬實沒料"],
+		"hateYes": ["同意啦，哪次不同意","好欸","屬實有料"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "水餃",
+		"tradeRequest": "屬實有料",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [16,5,1],
+		"innerColor": [20,200,25],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["首都","不是首都1","不是首都2","不是首都3","不是首都4","不是首都5","不是首都6","不是首都7","不是首都8",
+			"不是首都9","不是首都10","不是首都11","不是首都12","不是首都13","不是首都14","不是首都15","不是首都16","不是首都17","不是首都18",
+			"不是首都19","不是首都20","不是首都21","不是首都22","不是首都23","不是首都24","不是首都25","不是首都26","不是首都27","不是首都28",
+			"不是首都29","不是首都30","不是首都31","不是首都32","不是首都33","不是首都34"]
 	}
 ]
