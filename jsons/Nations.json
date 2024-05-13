@@ -30,7 +30,7 @@
 		"outerColor": [1,5,16],
 		"innerColor": [25,200,20],
 		"uniqueName": "Rush",
-		"unique": ["Empire enters golden age <starting from the [Classical era]>"],
+		"unique": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
 		"cities": ["BIR","BIR1","BIR2","BIR3","BIR4","BIR5","BIR6","BIR7","BIR8",
 			"BIR9","BIR10","BIR11","BIR12","BIR13","BIR14","BIR15","BIR16","BIR17","BIR18",
 			"BIR19","BIR20","BIR21","BIR22","BIR23","BIR24","BIR25","BIR26","BIR27","BIR28",
