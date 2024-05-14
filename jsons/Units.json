@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Khan",
+		"name": "I3IR",
 		"unitType": "Civilian",
 		"uniqueTo": "Rusher",
 		"replaces": "Great General",
@@ -11,6 +11,6 @@
 			"Can be earned through combat",
 			"Great Person - [War]", "Unbuildable", "Uncapturable",
             "Invisible to others"],
-		"movement": 2
+		"movement": 3
 	}
 ]
