@@ -11,5 +11,17 @@
         "uniqueTo": "Farmer",
 		"specialistSlots": {"Artist": 1},
 		"uniques": ["Destroyed when the city is captured"]
+    },
+    {
+        "name": "FireWalls",
+        "replaces": "Walls",
+        "cost": 30,
+        "science": 1,
+        "uniqueTo": "Farmer",
+        "cityStrength": 2,
+        "hurryCostModifier": 25,
+        "cityHealth": 80,
+        "requiredTech": "Masonry",
+        "uniques": ["Destroyed when the city is captured"]
     }
 ]
