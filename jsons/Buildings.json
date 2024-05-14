@@ -3,12 +3,6 @@
 		"name": "Harvest Altar",
         "uniqueTo":"Farmer",
 		"isNationalWonder": true,
-		"production": 3,
-		"science": 3,
-		"gold": 3,
-		"culture": 1,
-		"cityStrength": 2,
-		"cost": 1,
 		"uniques": ["[+10]% [Food] [in all cities] <when not at war>","Limit to [1] per Civilization"]
 	}
 ]
