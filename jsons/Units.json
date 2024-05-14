@@ -1,21 +1,22 @@
 [
 	{
 		"name": "I3IR",
-		"unitType": "Civilian",
+		"unitType": "Sword",
 		"uniqueTo": "Rusher",
 		"replaces": "Great General",
+        "strength": 8,
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "[+20]% Strength bonus for [Military] units within [2] tiles",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Can be earned through combat",
 			"Great Person - [War]", "Unbuildable", "Uncapturable",
-            "Invisible to others","Ignores terrain cost","Ignores Zone of Control"],
+            "Ignores terrain cost","Ignores Zone of Control","Invisible to others","Cannot attack"],
             
 		"movement": 3
 	},
     {
-		"name": "Warrior_X",
+		"name": "莽夫",
 		"unitType": "Sword",
         "replaces":"Warrior",
         "uniqueTo":"Rusher",
@@ -24,7 +25,7 @@
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects","Invisible to others"],
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects","[+50]% Strength <when above [99] HP>"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
