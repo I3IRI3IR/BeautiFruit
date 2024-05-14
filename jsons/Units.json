@@ -18,6 +18,7 @@
 		"name": "Warrior_X",
 		"unitType": "Sword",
         "replaces":"Warrior",
+        "uniqueTo":"Rusher",
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
