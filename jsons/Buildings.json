@@ -3,7 +3,7 @@
         "name": "e/acc祭壇",
 		"culture": 3,
         "science": 2,
-		"requiredBuilding": "Monument",
+		"requiredBuilding": "Temple",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
