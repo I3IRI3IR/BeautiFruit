@@ -4,7 +4,7 @@
 		"unitType": "Sword",
 		"uniqueTo": "Rusher",
 		"replaces": "Great General",
-        "strength": 8,
+        "strength": 90,
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "[+20]% Strength bonus for [Military] units within [2] tiles",
@@ -12,7 +12,6 @@
 			"Can be earned through combat",
 			"Great Person - [War]", "Unbuildable", "Uncapturable",
             "Ignores terrain cost","Ignores Zone of Control","Invisible to others","Cannot attack"],
-            
 		"movement": 3
 	},
     {
