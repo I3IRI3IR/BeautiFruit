@@ -13,5 +13,20 @@
             "Invisible to others","Ignores terrain cost","Ignores Zone of Control"],
             
 		"movement": 3
-	}
+	},
+    {
+		"name": "Warrior_X",
+		"unitType": "Sword",
+        "replaces":"Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects","Invisible to others"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},
 ]
