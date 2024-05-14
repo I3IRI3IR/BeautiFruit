@@ -1,8 +1,3 @@
 [
-	{
-		"name": "Harvest Altar",
-        "uniqueTo":"Farmer",
-		"isNationalWonder": true,
-		"uniques": ["[+10]% [Food] [in all cities] <when not at war>","Limit to [1] per Civilization"]
-	}
+
 ]
