@@ -1,3 +1,14 @@
 [
-
+    {
+        "name": "e/acc祭壇",
+		"culture": 3,
+        "science": 2,
+		"requiredBuilding": "Monument",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+        "uniqueTo": "Farmer",
+		"specialistSlots": {"Artist": 1},
+		"uniques": ["Destroyed when the city is captured"]
+    }
 ]
