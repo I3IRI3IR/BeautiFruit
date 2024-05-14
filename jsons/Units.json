@@ -29,5 +29,14 @@
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
 		]
+	},
+    {
+		"name": "S_worker",
+		"unitType": "Sword",
+        "replaces": "Worker",
+        "strength": 4,
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "[+75]% Strength <when defending>"],
+		"cost": 60
 	}
 ]
