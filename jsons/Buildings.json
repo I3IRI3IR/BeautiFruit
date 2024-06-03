@@ -38,6 +38,8 @@
     },
     {
         "name": "延平郡王祠",
+		"replaces": "Heroic Epic",
+        "uniqueTo": "LL莊園",
 		"cost": 150,
 		"culture": 1,
 		"isNationalWonder": true,
