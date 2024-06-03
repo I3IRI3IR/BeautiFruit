@@ -23,5 +23,11 @@
         "cityHealth": 80,
         "requiredTech": "Masonry",
         "uniques": ["Destroyed when the city is captured"]
+    },
+    {
+        "name": "國小",
+        "replace": "university",
+        "uniqueTo": "ll莊園",
+        "uniques": ["[+20]% [Production] [in this city]"]
     }
 ]

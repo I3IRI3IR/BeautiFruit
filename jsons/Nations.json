@@ -37,6 +37,43 @@
 			"BIR29","BIR30","BIR31","BIR32","BIR33","BIR34"]
 	},
 	{
+		"name": "ll莊園",
+		"leaderName": "pudding",
+		"adjective": ["ll"],
+		"startBias": ["Avoid[Tundra],Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We come for ll!",
+		"startIntroPart2": "元神，啟動!",
+		
+		"declaringWar": "蘿莉控的辛亥革命!",
+		"attacked": "為了ll!",
+		"defeated": "監獄只是一種房間",
+		"introduction": "我是可莉玩家",
+		
+		"neutralHello": "早安",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["0","否阿","你要不要聽聽看你在說什麼"],
+		"neutralYes": ["同意啦，哪次不同意","好欸","真好"],
+
+		"hateHello": "起床重睡",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["0","否阿","你要不要聽聽看你在說什麼"],
+		"hateYes": ["同意啦，哪次不同意","好欸","真好"],
+		
+		"afterPeace": "我要回家找我妹了",
+		"tradeRequest": "交嗎",
+
+		"outerColor": [220,210,255],
+		"innerColor": [25,20,200],
+		"uniqueName": "閃擊鹿耳門",
+		"uniques": ["Eliminates combat penalty for attacking across a coast","Can move after attacking <for [Water] units>","Eliminates combat penalty for attacking over a river","[0] Movement point cost to disembark <for [All] units>"],
+		"cities": ["pudding","pudding1","pudding2","pudding3","pudding4","pudding5","pudding6","pudding7","pudding8",
+			"pudding9","pudding10","pudding11","pudding12","pudding13","pudding14","pudding15","pudding16","pudding17","pudding18",
+			"pudding19","pudding20","pudding21","pudding22","pudding23","pudding24","pudding25","pudding26","pudding27","pudding28",
+			"pudding29","pudding30","pudding31","pudding32","pudding33","pudding34"]
+	},
+	{
 		"name": "Farmer",
 		"leaderName": "Sakinu_RuiKao",
 		"adjective": ["Rui"],
