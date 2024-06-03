@@ -28,6 +28,12 @@
         "name": "國小",
         "replace": "University",
         "uniqueTo": "LL莊園",
-        "uniques": ["[+20]% [Production] [in this city]"]
+        "maintenance": 2,
+        "hurryCostModifier": 15,
+        "percentStatBonus": {"science": 33},
+        "specialistSlots": {"Scientist": 2},
+        "requiredBuilding": "Library",
+        "uniques": ["[+20]% growth [in this city]"],
+        "requiredTech": "Education"
     }
 ]
