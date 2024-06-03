@@ -67,7 +67,7 @@
 		"outerColor": [220,210,255],
 		"innerColor": [25,20,200],
 		"uniqueName": "閃擊鹿耳門",
-		"uniques": ["Eliminates combat penalty for attacking across a coast <for [All] units>","Can move after attacking <for [Water] units>","Eliminates combat penalty for attacking over a river <for [All] units>","[0] Movement point cost to disembark <for [All] units>"],
+		"uniques": ["[0] Movement point cost to disembark <for [All] units>"],
 		"cities": ["pudding","pudding1","pudding2","pudding3","pudding4","pudding5","pudding6","pudding7","pudding8",
 			"pudding9","pudding10","pudding11","pudding12","pudding13","pudding14","pudding15","pudding16","pudding17","pudding18",
 			"pudding19","pudding20","pudding21","pudding22","pudding23","pudding24","pudding25","pudding26","pudding27","pudding28",
