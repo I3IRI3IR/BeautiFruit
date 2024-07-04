@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Test",
+        "victoryScreenHeader": "This is a test victory type!",
+        "milestones": ["Destroy all players"],
+        "victoryString": "test win",
+        "defeatString": "test lose"
+    }
+]
