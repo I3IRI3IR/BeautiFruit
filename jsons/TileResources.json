@@ -1,6 +1,7 @@
 [
     {
         "name": "vp",
+        "resourceType": "Luxury",
 		"uniques": ["Stockpiled"]
     }
 ]
