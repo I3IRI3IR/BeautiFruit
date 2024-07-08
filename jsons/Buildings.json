@@ -3,6 +3,7 @@
         "name": "e/acc祭壇",
 		"culture": 3,
         "science": 2,
+        "faith":1,
 		"requiredBuilding": "Monument",
         "replaces":"Temple",
 		"maintenance": 2,
