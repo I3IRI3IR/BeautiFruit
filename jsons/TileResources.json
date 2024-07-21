@@ -1,6 +1,7 @@
 [
     {
         "name": "Vp",
+        "resourceType": "Strategic",
 		"uniques": ["Stockpiled"]
     }
 ]
